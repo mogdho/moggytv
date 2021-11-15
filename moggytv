@@ -1,0 +1,4 @@
+EXTM3U 
+#EXTINF: -1 tvg-
+logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="moggytv", Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
