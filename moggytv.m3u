@@ -3,5 +3,5 @@ EXTM3U
 https://last.gcdn.co/IND389/tracks-v1a1/mono?c=Colors_Cineplex_HD&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="JIO_SabbirIPTV", Zee Bangla
 http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=.m3u8
-#EXTINF: -1 tvg-zee bangla
-https://last.gcdn.co/IND389/tracks-v1a1/mono?c=Colors_Cineplex_HD&q=1200&e=.m3u8
+#EXTINF: -1 tvg- group title="moggytv" , zee bangla
+http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=.m3u8
