@@ -1,6 +1,5 @@
 EXTM3U 
-#EXTINF: -1 tvg-
-logo="https://mega.nz/file/kpk2TChZ#jNPpRTYOzu6R6Ws_xRLSUoIBEilaoiZB7c40atWQ2L0" group-title="moggytv", Zee bangla
+#EXTINF: -1 tvg-logo="https://mega.nz/file/kpk2TChZ#jNPpRTYOzu6R6Ws_xRLSUoIBEilaoiZB7c40atWQ2L0.png" group-title="moggytv", Zee bangla
 https://last.gcdn.co/IND389/tracks-v1a1/mono?c=Colors_Cineplex_HD&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="JIO_SabbirIPTV", Zee Bangla
 http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=.m3u8
